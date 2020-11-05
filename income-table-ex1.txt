@@ -1,0 +1,14 @@
+high no
+high no
+high yes
+medium yes
+low yes
+low no
+low yes
+medium no
+low yes
+medium yes
+medium yes
+medium yes
+high yes
+medium no

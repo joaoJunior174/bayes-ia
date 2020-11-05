@@ -1,0 +1,14 @@
+30 no
+30 no
+31_40 yes
+40 yes
+40 yes
+40 no
+31_40 yes
+30 no
+30 yes
+40 yes
+30 yes
+31_40 yes
+31_40 yes
+40 no
